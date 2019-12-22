@@ -1,0 +1,20 @@
+{
+  "name": "zygnus-assets",
+  "homepage": "https://github.com/zygnus-gallery/zy",
+  "authors": [
+    "noreply@zygnusgallery.com"
+  ],
+  "description": "Assets ZG",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://https://github.com/zygnus-gallery/zy.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
